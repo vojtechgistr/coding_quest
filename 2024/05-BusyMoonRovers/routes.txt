@@ -1,0 +1,10 @@
+Rover 1 route: base -> km46 -> rd48 -> ts86 -> km46 -> base -> dc94 -> sh80 -> ux20 -> cg96 -> hr27 -> bi41 -> ap98 -> ux20 -> ik04 -> sf80 -> ik04 -> ik04 -> rd48 -> base
+Rover 2 route: base -> em44 -> km46 -> pd69 -> rt50 -> vp88 -> sf80 -> vp88 -> base -> cg96 -> rc82 -> mg52 -> bi41 -> hr27 -> base
+Rover 3 route: base -> base -> li84 -> km46 -> ts86 -> base -> sh80 -> pd69 -> em44 -> sh80 -> af18 -> base
+Rover 4 route: base -> ts86 -> ts86 -> af18 -> base -> ap98 -> rc82 -> bi41 -> bi41 -> qx43 -> em44 -> em44 -> el82 -> base
+Rover 5 route: base -> dc94 -> hx27 -> rt50 -> vp88 -> pd69 -> af18 -> sf80 -> base
+Rover 6 route: base -> hx27 -> eu85 -> em44 -> dc94 -> ux20 -> vp88 -> ik04 -> ux20 -> li84 -> mg52 -> base
+Rover 7 route: base -> ap98 -> ts86 -> ts86 -> em44 -> rt50 -> rt50 -> qx43 -> sh80 -> ap98 -> ux20 -> el82 -> rt50 -> km46 -> base
+Rover 8 route: base -> pd69 -> ap98 -> ik04 -> el82 -> sf80 -> ux20 -> vp88 -> dc94 -> pd69 -> ik04 -> li84 -> ts86 -> base
+Rover 9 route: base -> sh80 -> km46 -> ts86 -> base -> sf80 -> eu85 -> ap98 -> sh80 -> qx43 -> rt50 -> bi41 -> ux20 -> bi41 -> dc94 -> pd69 -> vp88 -> li84 -> ik04 -> base
+Rover 10 route: base -> ts86 -> sh80 -> em44 -> em44 -> af18 -> base -> eu85 -> ik04 -> af18 -> sh80 -> sf80 -> dc94 -> ap98 -> cg96 -> dc94 -> qx43 -> sh80 -> rd48 -> rc82 -> base
